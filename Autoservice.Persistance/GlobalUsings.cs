@@ -1,0 +1,1 @@
+﻿global using Autoservice.Persistance.Models.Base;
